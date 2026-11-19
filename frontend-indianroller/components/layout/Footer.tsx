@@ -157,8 +157,8 @@ const Footer = () => {
 
           <div className="text-[11px] text-gray-500 uppercase tracking-widest">
             Developed By{" "}
-            <Link href="https://jaikvik.com" target="_blank" className="text-blue-500 hover:underline">
-              Jaikvik Technology India Pvt Ltd
+            <Link href="https://www.arkatechnovation.com/" target="_blank" className="text-blue-500 hover:underline">
+              Arka Technovation Pvt Ltd
             </Link>
           </div>
         </div>
